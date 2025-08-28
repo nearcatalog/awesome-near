@@ -1,7 +1,7 @@
 
 # Awesome NEAR [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A NEARCatalog's curated list of awesome NEAR frameworks, libraries, software and resources. 
+A curated list by NEARCatalog of awesome frameworks, libraries, software, and resources on NEAR.
 
 <img src="https://user-images.githubusercontent.com/46699230/155927021-1567bbfc-f870-4ce0-a7e0-1d227a64563c.svg" width="150">
 
@@ -44,6 +44,7 @@ A NEARCatalog's curated list of awesome NEAR frameworks, libraries, software and
 
 - [NEAR wallet Selector](https://github.com/near/wallet-selector) - This is a wallet selector modal that allows users to interact with NEAR dApps with a selection of available wallets.
 - [HOT Wallet Connector](https://github.com/AZbang/hot-connector) - An easily upgradeable, secure and lightweight wallet connector for the NEAR blockchain
+- [NEAR Mobile Wallet](https://github.com/Peersyst/near-mobile-wallet) - Opensource repo of NEAR Mobile - the on-the-go solution for all things NEAR Protocol. 
 
 - [fastintear](https://github.com/elliotBraem/fastintear) - Simple, intuitive JavaScript library for interacting with the NEAR Protocol blockchain
 - [near-sign-verify](https://github.com/elliotBraem/near-sign-verify) - Create and validate NEP-413 signed messages for API authentication.
@@ -51,7 +52,6 @@ A NEARCatalog's curated list of awesome NEAR frameworks, libraries, software and
 
 - [near-api-js](https://github.com/near/near-api-js)
 - [near-api-go](https://github.com/aurora-is-near/near-api-go)
-- [near-api-rs](https://github.com/bicarus-labs/near-api-rs)
 - [near-api-py](https://github.com/near/near-api-py)
 - [near-api-swift](https://github.com/near/near-api-swift)
 
@@ -138,14 +138,15 @@ A NEARCatalog's curated list of awesome NEAR frameworks, libraries, software and
 #### NFT 🖼️
 
 - [NFT example](https://github.com/near-examples/NFT)
-- [Paras NFT Marketplace (unmaintained)](https://github.com/ParasHQ/paras-marketplace-contract)
-- [Mintbase](https://github.com/Mintbase/mintbase-core)
-- [TenK](https://github.com/TENK-DAO/tenk)
+- [Paras NFT Marketplace Codebase](https://github.com/ParasHQ/paras-marketplace-contract) - An Open source NFT Marketplace 
+- [Mintbase Codebase](https://github.com/Mintbase/mintbase-core) - An Open source NFT Marketplace
+- [TenK](https://github.com/TENK-DAO/tenk) - Template for making a NFT contract with a raffle of tokens
 
 #### DAO & Social platforms 🏛️
 
 - [SputnikDAO](https://github.com/near-daos/sputnik-dao-contract)
 - [Nearn](https://github.com/NEAR-DevHub/nearn) - An open source platform connecting crypto founders with elite talent to create bounties, and accelerate project completion
+- [SHITZU Apes](https://github.com/Shitzu-Apes) - Opensource repos of Shitzu - the memecoin community building NEAR apps & infras  
 
 #### Oracle 🔮
 
@@ -177,8 +178,12 @@ A NEARCatalog's curated list of awesome NEAR frameworks, libraries, software and
 
 - [Hackathon Resources](https://devhub.near.page/devhub.near/widget/app?page=blogv2&id=hackathon-resources-for-redacted-lsy0pp&community=developer-dao)
 
-- [NEARCatalog - Explorer NEAR Projects](https://nearcatalog.xyz/)
+- [NEARCatalog](https://nearcatalog.xyz/) - Explorer NEAR Projects
 
+- [near-protocol-reward](https://github.com/near-horizon/near-protocol-rewards) - Build. Ship. Get Rewarded. A transparent, on-chain rewards program for NEAR builders. Where activity and impact earn you real incentives.
+
+- [NEAR Dev Newsletter](https://dev.near.org/newsletter) - This is NEAR Dev NEWS — your weekly scoop on ecosystem updates, dev tools, freelance gigs, and events around the NEAR Protocol. Let’s dive in.
+- [NEARWEEK Newsletter](https://nearweek.com/) - a weekly newsletter covering everything within the NEAR PROTOCOL ecosystem.
 
 ## Contribute
 
