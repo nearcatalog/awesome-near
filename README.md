@@ -174,6 +174,7 @@ A curated list by NEARCatalog of awesome frameworks, libraries, software, and re
 
 
 #### 📚 Resources & Tutorials
+
 - [How to Run Localnet/Devnet on NEAR Protocol 🦀](https://t.me/NEARDevHub/522) - Want to test smart contracts without touching mainnet? This step-by-step guide shows you how to set up your own localnet/devnet for NEAR — fast, private, and 100% free.
 
 - [Hackathon Resources](https://devhub.near.page/devhub.near/widget/app?page=blogv2&id=hackathon-resources-for-redacted-lsy0pp&community=developer-dao)
@@ -183,7 +184,10 @@ A curated list by NEARCatalog of awesome frameworks, libraries, software, and re
 - [near-protocol-reward](https://github.com/near-horizon/near-protocol-rewards) - Build. Ship. Get Rewarded. A transparent, on-chain rewards program for NEAR builders. Where activity and impact earn you real incentives.
 
 - [NEAR Dev Newsletter](https://dev.near.org/newsletter) - This is NEAR Dev NEWS — your weekly scoop on ecosystem updates, dev tools, freelance gigs, and events around the NEAR Protocol. Let’s dive in.
+
 - [NEARWEEK Newsletter](https://nearweek.com/) - a weekly newsletter covering everything within the NEAR PROTOCOL ecosystem.
+
+- [NEAR Opensource Contract List](https://docs.near.org/resources/contracts-list) - a collection of open-source contracts from various projects deployed on NEAR.
 
 ## Contribute
 
