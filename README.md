@@ -71,6 +71,7 @@ A curated list by NEARCatalog of awesome frameworks, libraries, software, and re
 - [near-workspaces-rs](https://github.com/near/workspaces-rs) - Write tests once, run them both on NEAR TestNet and a controlled NEAR Sandbox local environment via Rust
 - [near-workspaces-js](https://github.com/near/workspaces-js) - Write tests once, run them both on NEAR TestNet and a controlled NEAR Sandbox local environment via JS
 
+- [NEAR Devportal toolbox](https://dev.near.org/tools?tab=ft) - Quickly create Fungible Token, NFT, Linkdrop, or DAO contracts through a simple web UI. 
 
 #### DeFi 💰
 
