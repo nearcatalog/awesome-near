@@ -72,6 +72,7 @@ A curated list by NEARCatalog of awesome frameworks, libraries, software, and re
 - [near-workspaces-js](https://github.com/near/workspaces-js) - Write tests once, run them both on NEAR TestNet and a controlled NEAR Sandbox local environment via JS
 
 - [NEAR Devportal toolbox](https://dev.near.org/tools?tab=ft) - Quickly create Fungible Token, NFT, Linkdrop, or DAO contracts through a simple web UI. 
+- [NEAR Protocol TypeScript RPC Client](https://github.com/near/near-jsonrpc-client-ts) - An automated, type-safe TypeScript client for NEAR Protocol's JSON-RPC API, generated from the official OpenAPI specification.
 
 #### DeFi 💰
 
@@ -188,7 +189,7 @@ A curated list by NEARCatalog of awesome frameworks, libraries, software, and re
 
 - [NEARWEEK Newsletter](https://nearweek.com/) - a weekly newsletter covering everything within the NEAR PROTOCOL ecosystem.
 
-- [NEAR Opensource Contract List](https://docs.near.org/resources/contracts-list) - a collection of open-source contracts from various projects deployed on NEAR.
+- [NEAR Opensource Contract List](https://docs.near.org/smart-contracts/contracts-list) - a collection of open-source contracts from various projects deployed on NEAR like reference staking pool, lockup, voting, whitelist, multisig and many mores.
 
 ## Contribute
 
