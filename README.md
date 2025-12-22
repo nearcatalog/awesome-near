@@ -44,6 +44,7 @@ A curated list by NEARCatalog of awesome frameworks, libraries, software, and re
 
 - [NEAR wallet Selector](https://github.com/near/wallet-selector) - This is a wallet selector modal that allows users to interact with NEAR dApps with a selection of available wallets.
 - [HOT Wallet Connector](https://github.com/AZbang/hot-connector) - An easily upgradeable, secure and lightweight wallet connector for the NEAR blockchain
+- [near-kit](https://github.com/r-near/near-kit) - TypeScript library for interacting with NEAR Protocol - simple, type-safe, and intuitive
 - [NEAR Mobile Wallet](https://github.com/Peersyst/near-mobile-wallet) - Opensource repo of NEAR Mobile - the on-the-go solution for all things NEAR Protocol. 
 
 - [fastintear](https://github.com/elliotBraem/fastintear) - Simple, intuitive JavaScript library for interacting with the NEAR Protocol blockchain
