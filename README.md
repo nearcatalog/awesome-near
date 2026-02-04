@@ -85,16 +85,19 @@ A curated list by NEARCatalog of awesome frameworks, libraries, software, and re
 - [LiNEAR Protocol](https://github.com/linear-protocol) - a LST protocol on NEAR
 - [DEX Aggregator API](https://docs.intear.tech/docs/dex-aggregator/) - The Intear DEX Aggregator provides optimal trading routes across multiple decentralized exchanges on the NEAR blockchain, ensuring users get the best prices with minimal slippage.
 
-#### Chain Abstraction 🔄
+#### Chain Abstraction / NEAR Intents 🔄
 
 - [chainsig.js](https://github.com/NearDeFi/chainsig.js) - A TypeScript library for handling multi-chain transactions and signatures using MPC (Multi-Party Computation).
 - [NEAR-Intents](https://github.com/near/intents) - Set of contracts for the NEAR Intents project
+- [NEAR Intents CLI](https://github.com/NEARBuilders/near-intents-cli) - SDK and CLI for NEAR Intents - cross-chain token swaps, deposits, and withdrawals. Execute intent-based token transfers across multiple blockchains including NEAR, Ethereum, Solana, and more.
 
 - [Omni Bridge Docs](https://docs.near.org/chain-abstraction/omnibridge/overview) - The Omni Bridge is a multi-chain asset bridge that facilitates secure and efficient asset transfers between different blockchain networks
 - [Omni Bridge TypeScript SDK](https://github.com/Near-One/bridge-sdk-js) - TypeScript SDK for seamless cross-chain token transfers using the Omni Bridge protocol
 - [Omni Bridge Rust SDK](https://github.com/Near-One/bridge-sdk-rs) - Rust SDK for seamless cross-chain token transfers using the Omni Bridge protocol
 - [btc-light-client-contract](https://github.com/Near-One/btc-light-client-contract) - Bitcoin light client implementation for Near Protocol
 - [RainBow Bridge](https://github.com/Near-One/rainbow-bridge) - 🌈🌈🌈 NEAR <> Ethereum Decentralized Bridge
+
+
 
 
 #### AI 🧠
@@ -118,6 +121,8 @@ A curated list by NEARCatalog of awesome frameworks, libraries, software, and re
 
 - [AI Oracles](https://github.com/INTEARnear/oracle/tree/main/crates) - GPT-4o centralized, GPT-4o through Reclaim Protocol, Near AI inference oracles.  
 - [AI Moderator](https://github.com/INTEARnear/Tear/tree/main/ai-moderator) - Telegram Bot that has an AI Moderation feature.  
+
+- [cyborg](https://github.com/NEARBuilders/cyborg) - AI-powered NEAR Protocol agent with streaming chat, builders directory, and NEAR Social profile integration.
 
 
 #### Validators / RPCs 🔍
@@ -152,6 +157,7 @@ A curated list by NEARCatalog of awesome frameworks, libraries, software, and re
 - [SputnikDAO](https://github.com/near-daos/sputnik-dao-contract)
 - [Nearn](https://github.com/NEAR-DevHub/nearn) - An open source platform connecting crypto founders with elite talent to create bounties, and accelerate project completion
 - [SHITZU Apes](https://github.com/Shitzu-Apes) - Opensource repos of Shitzu - the memecoin community building NEAR apps & infras  
+- [NEAR Social JS](https://github.com/NEARBuilders/near-social-js) - JavaScript SDK for interacting with the social contract (social.near) with helper functions for typical social features.
 
 #### Oracle 🔮
 
@@ -193,6 +199,8 @@ A curated list by NEARCatalog of awesome frameworks, libraries, software, and re
 - [NEARWEEK Newsletter](https://nearweek.com/) - a weekly newsletter covering everything within the NEAR PROTOCOL ecosystem.
 
 - [NEAR Opensource Contract List](https://docs.near.org/smart-contracts/contracts-list) - a collection of open-source contracts from various projects deployed on NEAR like reference staking pool, lockup, voting, whitelist, multisig and many mores.
+
+- [Awesome NEAR tool and repos](https://github.com/near/awesome-near/) - A curated collection of repositories and tools for building on the NEAR Protocol blockchain, curated by NEARCore team.
 
 ## Contribute
 
