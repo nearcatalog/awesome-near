@@ -104,6 +104,8 @@ A curated list by NEARCatalog of awesome frameworks, libraries, software, and re
 
 - [NEAR Skills](https://github.com/near/agent-skills) - AI agent skills for NEAR Protocol blockchain development.
 
+- [IronClaw](https://github.com/nearai/ironclaw?tab=readme-ov-file) - OpenClaw inspired implementation in Rust focused on privacy and security.
+
 - [Shade Agents Docs](https://docs.near.org/ai/shade-agents/introduction) - The Shade Agent Framework allows developers to build decentralized and trustless AI agents that control accounts and assets across multiple blockchains.
 - [Shade Agent Template](https://github.com/NearDeFi/shade-agent-template)
 - [Shade Agent JS CLI](https://github.com/NearDeFi/shade-agent-js)
